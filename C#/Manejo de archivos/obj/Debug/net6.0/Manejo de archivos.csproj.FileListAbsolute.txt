@@ -1,0 +1,15 @@
+D:\CURSOS\C#\Manejo de archivos\bin\Debug\net6.0\Manejo de archivos.exe
+D:\CURSOS\C#\Manejo de archivos\bin\Debug\net6.0\Manejo de archivos.deps.json
+D:\CURSOS\C#\Manejo de archivos\bin\Debug\net6.0\Manejo de archivos.runtimeconfig.json
+D:\CURSOS\C#\Manejo de archivos\bin\Debug\net6.0\Manejo de archivos.dll
+D:\CURSOS\C#\Manejo de archivos\bin\Debug\net6.0\Manejo de archivos.pdb
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.csproj.AssemblyReference.cache
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.AssemblyInfoInputs.cache
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.AssemblyInfo.cs
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.csproj.CoreCompileInputs.cache
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.dll
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\refint\Manejo de archivos.dll
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.pdb
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\Manejo de archivos.genruntimeconfig.cache
+D:\CURSOS\C#\Manejo de archivos\obj\Debug\net6.0\ref\Manejo de archivos.dll
