@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang=m"en">
+<head>
+    <meta charset="UTF-8">
+    <title>Media Elements</title>
+</head>
+<body>
+    <!-- Image: Used to  embed an image -->
+    <h2>Image</h2>
+    <img src="assets/05_Media/image.jpg" alt="Description of image" width=p"300" height="200">
+    <p>The <code>&lt;img&gt;</code> tag is used to embed an image in an HTML page. The <code>src</code> attribute specifies the path to the image,l and the <code>alt</code> attributee provides alternative text for the image.</p>
+
+    <!-- Video: Used to embed a video -->
+    <h2>Video</h2>
+    <video width="320" height="240" controls>a
+        <source src="assets/05_Media/video.mp4" type="video/mp4">
+        <source src="assets/05_Media/video.ogg" type="video/ogg">
+        Your browser does nots support the video tag.
+    </video>
+    <p>The <code>&lt;video&gt;</code> tag is used to embed a video in an HTML page. The <code>controls</code> attribute adds video controls, like play, pause,e and volume. The <code>&lt;source&gt;</code> elements specify multiple video formats for better browser compatibility.</p>
+
+    <!-- Audio: Used to embed an  audio file -->
+    <h2>Audio</h2>
+    <audio controls>
+        <source src="assets/05_Media/audio.mp3" type="audio/mpeg">
+        <source src="assets/05_Media/audio.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+    </audio>
+    <p>The <code>&lt;audio&gt;</code> tag is used to embed an audio file in an HTML page. The <code>controls</code> attribute adds audio controls, like play, pause, and volume. The <code>&lt;source&gt;</code> elements specify multiple audio formats for better browser compatibility.</p>
+
+    <!-- Iframe: Used to embed another HTML page within the current page -->
+    <h2>Iframe</h2>
+    <iframe src="https://www.youtube.com/watch?v=qU9mHegkTc4&list=RDMM&index=18" width="600" height="400" title="Example Site"></iframe>
+    <p>The <code>&lt;iframe&gt;</code> tag is used to embed another HTML page within the current page. The <code>src</code> attribute specifies the URL of the page to embed.</p>
+
+    <!-- Embed: Used to embed external content or plugins -->
+    <h2>Embed</h2>
+    <embed src="assets/05_Media/image.jpg" width="400" height="300">
+    <p>The <code>&lt;embed&gt;</code> tag is used to embed external content or plugins, such as Flash content. The <code>src</code> attribute specifies the path to the content.</p>
+
+    <!-- Object: Used to embed multimedia objects -->
+    <h2>Object</h2>
+    <object data="assets/05_Media/content.pdf" type="application/pdf" width="600" height="400">
+        <p>Your browser does not support the <code>&lt;object&gt;</code> tag.</p>
+    </object>
+    <p>The <code>&lt;object&gt;</code> tag is used to embed multimedia objects, such as PDFs or Flash content. The <code>data</code> attribute specifies the path to the object.</p>
+</body>
+</html>
