@@ -1,0 +1,1 @@
+document.querySelector('.externalDeferHead').textContent = 'External deferred JavaScript in the body section';

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scripts</title>
+    <!-- JavaScript in the head section (executed before the body)-->
+    <script>
+        setTimeout(() => {
+            alert('This alert is from inline JavaScript in the head section');
+        }, 2000);
+        document.querySelector('.inlineHead').textContent = 'Inline JavaScript in the head section';
+    </script>
+    <!-- JavaScript with async attribute -->
+    <script async src="assets/11_Scripts/async-script.js"></script>
+    <!-- JavaScript with defer attribute -->
+    <script defer src="assets/11_Scripts/defer-script.js"></script>
+</head>
+<body>
+    <p class="inlineHead">Hello, World!</p>
+    <p class="externalAsyncHead">Hello, World!</p>
+    <p class="externalDeferHead">Hello, World!</p>
+    <p class="inlineBody">Hello, World!</p>
+    <p class="externalBody">Hello, World!</p>
+    <!-- Inline JavaScript -->
+    <script>
+        document.querySelector('.inlineBody').textContent = 'Inline JavaScript in the body section';
+    </script>
+    <!-- External JavaScript file -->
+    <script src="assets/11_Scripts/script.js"></script>
+</body>
+</html>

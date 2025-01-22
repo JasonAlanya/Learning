@@ -1,0 +1,1 @@
+document.querySelector('.externalAsyncHead').textContent = 'External async JavaScript in the body section';
